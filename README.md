@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Instagram
 - 💬 Ask me about Python or C 
-- 📫 How to reach me:  Instagram :smiley: --> [@python_.programmers](https://www.instagram.com/python_.programmers/)
+- 📫 How to reach me:  Instagram :smiley: --> [@programmers.piyush](https://www.instagram.com/programmers.piyush/)
 - ⚡ Fun fact: I almost spend 4 Hours Learning a day
 - :fire: Trying To Imrove My stats and skills 
 
