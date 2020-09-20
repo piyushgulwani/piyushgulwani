@@ -17,12 +17,16 @@
 
 - - -
 
-### *I Code In *
+### *I Code In*
 
-
-<img width = 40px color = #fffff src = "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>
-
+|<img width = 40px src = "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img width = 40px src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>|
+|-|-|
 
 ---
 
 ### *IDE and Tools I Use*
+
+
+ <img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="VS Code" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|
+ |--|--|
+ 
