@@ -1,5 +1,7 @@
-### Hi there 👋
+### *Hi There Am Piyush*
+![](https://visitor-badge.glitch.me/badge?page_id=piyushgulwani) <br>
 
+<img align="right" alt = "CodingFromHome" src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
 
 - 🔭 I’m currently working on Tkinter Projects
 - 🌱 I’m currently learning Java
@@ -8,5 +10,15 @@
 - 📫 How to reach me:  Instagram :smiley: --> [@programmer.piyush](https://www.instagram.com/programmer.piyush/)
 - ⚡ Fun fact: I almost spend 4 Hours Learning a day
 - :fire: Trying To Imrove My stats and skills 
+- :dart: To Contribute More to Open Source
 
 <img src ="https://github-readme-stats.vercel.app/api?username=piyushgulwani&&show_icons=true&title_color=#FFD700&icon_color=bb23acf&text_color=daf7dc&bg_color=123515" >
+
+
+### *I Code In*
+
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" width = "26px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" alt="C" width = "26px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>
+<img align="left" alt="Java" width = "26px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
