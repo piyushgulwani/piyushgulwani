@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Tkinter Projects
 - 👯 I’m looking to collaborate on Instagram
 - 💬 Ask me about Anything :smile:
-- 📫 How to reach me:  Instagram :smiley: --> [@programmer.piyush](https://www.instagram.com/programmer.piyush/)
+- 📫 How to reach me:  Instagram :smiley: --> [@____piiyush____](https://www.instagram.com/____piiyush____/)
 - ⚡ Fun fact: I almost spend 4 Hours Learning a day
 - :fire: Trying To Imrove My stats and skills 
 - :dart: To Contribute More to Open Source
