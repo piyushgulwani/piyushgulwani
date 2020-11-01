@@ -3,7 +3,7 @@
 - - -
 <img align="right" width = 190px alt = "CodingFromHome" src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
 
-- 🔭 I’m currently working on Tkinter Projects
+- 🔭 I’m currently polishing my Java Skills
 - 👯 I’m looking to collaborate on Instagram
 - 💬 Ask me about Anything :smile:
 - 📫 How to reach me:  Instagram :smiley: --> [@____piiyush____](https://www.instagram.com/____piiyush____/)
