@@ -26,5 +26,5 @@
 ### *IDE and Tools I Use*
 
 
- <img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="VS Code" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|
- |--|--|
+ <img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="VS Code" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Intell IJ" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/intellijidea.svg"/>|
+ |--|--|--|
